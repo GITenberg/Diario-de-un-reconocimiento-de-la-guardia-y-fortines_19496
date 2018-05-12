@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8709
     wikipedia: http://es.wikipedia.org/wiki/F%C3%A9lix_de_Azara
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19496#Diario-de-un-reconocimiento-de-la-guardia-y-fortines
 gutenberg_bookshelf: Argentina
 gutenberg_issued: '2006-10-08'
 gutenberg_type: Text
