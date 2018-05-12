@@ -1,0 +1,33 @@
+_repo: Diario-de-un-reconocimiento-de-la-guardia-y-fortines_19496
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Azara, Félix de
+    aliases:
+    - Azara, Felix de
+    - D'Azara, Félix
+    - Azara y Perera, Félix Francisco José Pedro de
+    birthdate: 1742
+    deathdate: 1821
+    gutenberg_agent_id: '8709'
+    url: http://www.gutenberg.org/2009/agents/8709
+    wikipedia: http://es.wikipedia.org/wiki/F%C3%A9lix_de_Azara
+description: ''
+gutenberg_bookshelf: Argentina
+gutenberg_issued: '2006-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19496'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2801'
+- !lcsh 'Buenos Aires (Argentina : Province) -- Description and travel'
+- !lcsh 'Argentina -- History -- To 1810'
+title: Diario de un reconocimiento de la guardia y fortines
+url: http://www.gutenberg.org/ebooks/19496
